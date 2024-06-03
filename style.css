@@ -4,14 +4,14 @@
 	padding: 0px;
 }
 .header{
-	width: 100%;
+	/* width: 100%; */
 	display: flex;
+	height: 45px;
 	border-bottom: 1px solid #d8d8d8;
 	border-top: 1px solid #d8d8d8;
 }
 .h1{
 	width: 2.5%;
-	height: 48px;
 	border-right: 1px solid #d8d8d8;
 }
 .h2{
@@ -100,13 +100,15 @@
 	margin-top: 15px;
 }
 .d2{
-	margin-top: 30px;
+	margin-top: 40px;
+
 }
 .d3{
-	margin: 20px 5px 40px 1000px;
+
+	margin: 25px 40px 30px 730px;
 }
 .A{
-	height: 50px;
+	height: 45px;
 	width: 100%;
 	display: flex;
 	border-top: 1px solid grey;
@@ -118,7 +120,7 @@
 }
 .sem li{
 	display: inline-block;
-	padding: 18px;
+	padding: 17px;
 	position: relative;
 	font-weight: 900;
 }
@@ -167,7 +169,7 @@
 }
 .top{
 	background-color: rgba(150, 99, 25, 0.91);
-	height: 70px;
+	height: 60px;
 	position: absolute;
 	bottom: 0px;
 	width: 100%;
@@ -209,7 +211,7 @@ marquee{
 	}
 #ph{
 	line-height: 1.5;
-	font-size: 20.5px;
+	font-size: 18.4px;
 	margin-top: 15px;
 	text-align: justify;
 }
@@ -226,7 +228,7 @@ marquee{
 	font-size: 20px;
 }
 .a{
-	font-size: 15px;
+	font-size:13px;
 }
 .bot{
 	background-color: #9e6b22;
@@ -263,19 +265,19 @@ marquee{
 }
 .subt1{
 	 color:#067dbb;
-	 margin: 5px 200px 0px 0px;
+	 margin: 5px 100px 0px 0px;
 }
 .subt2{
 		color:#d04a0d; 
-	 margin: 5px 160px 0px 0px;
+	 margin: 5px 55px 0px 20px;
 }
 .subt3{
 		color:#06880e; 
-	 margin: 5px 165px 0px 0px;
+	 margin: 5px 59px 0px 0px;
 }
 .subt4{
 		color:#cc4647; 
-	 margin: 5px 140px 0px 0px;
+	 margin: 5px 40px 0px 0px;
 }
 .one1{
 	padding: 15px;
@@ -289,7 +291,7 @@ marquee{
 }
 .one2{
 	padding: 10px;
-	line-height: 1.5;
+	line-height: 1.4;
 }
 .one2 h1{
 	margin-bottom: 22px;
@@ -307,7 +309,7 @@ marquee{
 }
 .map h1{
 	margin-bottom: 15px;
-	margin-left: 8px;
+	margin-left: 5px;
 }
 .text h2 img{
 	margin-left: 10px;
@@ -382,13 +384,14 @@ marquee{
 	background-color: white;
 }
 .parent{
-	height:auto;
+	height:130px;
 	width: 100%;
 
 }
 .end{
 	width: 90%;
 	margin: auto;
+	height: 120px;
 	background-color:whitesmoke;
 }
 .bor{
@@ -402,7 +405,7 @@ marquee{
 }
 .inline{
 	margin: auto;
-	width: 30%;
+	width: 40%;
 }
 .inline li{
 	display: inline-block;
